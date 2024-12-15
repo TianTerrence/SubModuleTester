@@ -1,0 +1,6 @@
+framework module SubModuleTester {
+  umbrella header "SubModuleTester-umbrella.h"
+
+  export *
+  module * { export * }
+}
